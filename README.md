@@ -1,2 +1,2 @@
-# Social Media Sentimental Analysis 
+# Color Image Identification 
 
